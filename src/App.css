@@ -1,0 +1,12 @@
+.btn-outline-success{
+color: azure;
+}
+*{box-sizing: border-box}
+
+body{
+margin: 0;
+padding: 0;}
+#example:hover {
+    background: rgb(117, 117, 117);
+    color: white;
+}
